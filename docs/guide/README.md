@@ -13,11 +13,11 @@ Sou uma profissional com 8 anos de experiência na área de TI. Durante quase 6 
 
 No início, atuei em projetos abertos pequenos para adquirir experiência e aprimorar minhas habilidades. Com o tempo, passei a atuar formalmente dentro da indústria de desenvolvimento de software, o que me permitiu ter mais contato com projetos complexos e desafiadores.
 
-A maior parte da experiência é com desenvolvimento web para automações na nuvem, o que me permitiu desenvolver soluções escaláveis e eficientes em larga escala. Além disso, já trabalhei com times em diferentes níveis de maturidade ágil, tanto no framework Scrum quanto no Kanban.
+A maior parte da minha experiência é com desenvolvimento web para automações na nuvem, o que me permitiu desenvolver soluções escaláveis e eficientes em larga escala. Além disso, já trabalhei com times em diferentes níveis de maturidade ágil, tanto no framework Scrum quanto no Kanban.
 
 Mais recentemente, tenho me especializado em ciência de dados com ênfase em aprendizado de máquina, com o objetivo de adquirir conhecimentos que me permitam contribuir de forma ainda mais significativa para a inovação dentro da indústria.
 
-Em resumo, sou um profissional com experiência em diferentes áreas da TI, buscando sempre me aprimorar e evoluir para poder contribuir cada vez mais para a transformação digital das empresas.
+Em resumo, sou uma profissional com experiência em diferentes áreas da TI, buscando sempre me aprimorar e evoluir para poder contribuir cada vez mais para a transformação digital das empresas.
 
 ## Formação
 - MBA, Data Science e Analytics - Universidade de São Paulo - 2023 - 2024
