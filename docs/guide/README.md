@@ -21,7 +21,7 @@ Em resumo, sou uma profissional com experiência em diferentes áreas da TI, bus
 
 ## Formação
 - MBA, Data Science e Analytics - Universidade de São Paulo - 2023 - 2024
-- Curso de desenvolvimento full stack - Kenzie Academy Brasil - 2021 
+- Análise e desenvolvimento de sistemas - Universidade Anhembi Morumbi - 2021
 - Técnico de informática para internet, ETEC Dr. Geraldo José Rodrigues Alckmin - 2011
 
 ## Formação complementar
